@@ -1,6 +1,6 @@
 groovy-mysql-shell
 ==================
 
-Groovy console frontend for groovy.sql.Sql + MySQL.
+Simple mashup for Groovy's Console+SQL and MySQL.
 
 Trivial code, but I find it useful.
